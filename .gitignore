@@ -1,0 +1,4 @@
+.env
+weather_data.db
+transformed_weather_data.csv
+.venv/
